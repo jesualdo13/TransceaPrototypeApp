@@ -1,0 +1,161 @@
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 > #backgroundBox {
+  position: absolute;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 > #alignmentBox {
+  position: relative;
+  max-width: 375.0px;
+  max-height: 812.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 {
+  position: absolute;
+  width: 286.0px;
+  min-height: 59.00000000000023px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Poppins',Arial;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 > .backgroundLayer {
+  border-top-left-radius: 29.0px;
+  border-top-right-radius: 29.0px;
+  border-bottom-right-radius: 29.0px;
+  border-bottom-left-radius: 29.0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 > .backgroundLayer > .colorLayer {
+  background-color: transparent;
+  background-image: linear-gradient(140.31912963515157deg, #ACACD7 44.610596276902406%, #11118B 101.38236171236655%);
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 > .borderLayer {
+  border-top-left-radius: 29.0px;
+  border-top-right-radius: 29.0px;
+  border-bottom-right-radius: 29.0px;
+  border-bottom-left-radius: 29.0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 > .backgroundLayer {
+  border-top-left-radius: 29.0px;
+  border-top-right-radius: 29.0px;
+  border-bottom-right-radius: 29.0px;
+  border-bottom-left-radius: 29.0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Poppins',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Button_2 span#rtr-s-Button_2_0 {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: 'Poppins',Arial;
+  font-size: 12.0pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 {
+  position: absolute;
+  width: 333.0000000000001px;
+  min-height: 438.9999999999999px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 > .backgroundLayer {
+  border-top-left-radius: 5.0px;
+  border-top-right-radius: 5.0px;
+  border-bottom-right-radius: 5.0px;
+  border-bottom-left-radius: 5.0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 > .backgroundLayer > .colorLayer {
+  background-color: rgba(78,182,204,0.28);
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 > .borderLayer {
+  border-top-left-radius: 5.0px;
+  border-top-right-radius: 5.0px;
+  border-bottom-right-radius: 5.0px;
+  border-bottom-left-radius: 5.0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 > .backgroundLayer {
+  border-top-left-radius: 5.0px;
+  border-top-right-radius: 5.0px;
+  border-bottom-right-radius: 5.0px;
+  border-bottom-left-radius: 5.0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 span {
+  color: #333333;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.5pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Rectangle_2 span#rtr-s-Rectangle_2_0 {
+  color: #333333;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 10.5pt;
+  font-style: normal;
+  font-weight: 400;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 #s-Image_1 {
+  position: absolute;
+  width: 270.0px;
+  height: 51.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-96f4cb2b-009f-4c4d-9871-68e1892dfa03 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
